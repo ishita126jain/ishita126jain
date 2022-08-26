@@ -1,3 +1,4 @@
+![logo](https://github.com/ishita126jain/ishita126jain/blob/main/technology.gif)
 <h1 align="center">Hi 👋, I'm Ishita Jain</h1>
 <h3 align="center">A learner.....</h3>
 
