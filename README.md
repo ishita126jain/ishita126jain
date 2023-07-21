@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Structure**
 
-- 👨‍💻 Connect with me on Linkedin [https://www.linkedin.com/in/ishita-jain-564211225/](https://www.linkedin.com/in/ishita-jain-564211225/)
+- 👨‍💻 Connect with me on Linkedin [https://www.linkedin.com/in/ishita-jain-ishitajain/](https://www.linkedin.com/in/ishita-jain-ishitajain/)
 
 - 📫 How to reach me **ishita126jain@gmail.com**
 
